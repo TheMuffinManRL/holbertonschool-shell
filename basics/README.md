@@ -3,3 +3,4 @@
 2-bring me home script - changes the working directory to the user's home directory
 3-listfiles script - lists files in long format
 4-listmorefiles script - list all files including hidden in long format
+5-listfilesdigitonly script - lists all files(including hidden) with user and group ID's displayed numerically
