@@ -4,3 +4,5 @@
 3-listfiles script - lists files in long format
 4-listmorefiles script - list all files including hidden in long format
 5-listfilesdigitonly script - lists all files(including hidden) with user and group ID's displayed numerically
+
+6-firstdirectory script - creates a directory name my_first_directory in the /tmp/ directory
