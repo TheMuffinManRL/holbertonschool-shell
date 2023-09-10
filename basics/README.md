@@ -12,4 +12,4 @@
 10-back script - changes the working directory to the previous one
 11-lists script - lists all files(including hidden) in the current, parent, and /boot directories in that order
 
-
+12-file_type script - prints the type of the file iamafile in the /tmp/ directory
