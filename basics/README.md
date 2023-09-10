@@ -13,3 +13,4 @@
 11-lists script - lists all files(including hidden) in the current, parent, and /boot directories in that order
 
 12-file_type script - prints the type of the file iamafile in the /tmp/ directory
+13-symbolic_link script - creates symbolic link to /bin/ls named _ls_
