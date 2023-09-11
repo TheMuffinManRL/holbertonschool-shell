@@ -12,5 +12,6 @@
 
 10-mirror_permissions script - sets the permissions of file hello to match file olleh
 11-directories_permissions script - adds execute permission to all subdirectories fo the current directory
+12-directory_permissions - creates directory called my_dir with permissions 751 in currect working directory.
 
 
