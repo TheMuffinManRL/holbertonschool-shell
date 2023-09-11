@@ -6,4 +6,5 @@
 5-execute script - adds execution permission to owner of file hello
 6-multiple permissions script - adds execution permissions for user and group and read permissions to other users
 
-7-everybody script - adds execution permission to the owner, group and other users to the file hello
+7-everybody script - sets rwx to owner, r-x to group and x to other users in the file hello
+8-James_Bond script - adds execution permissions to the owner, group and other users to the file hello
