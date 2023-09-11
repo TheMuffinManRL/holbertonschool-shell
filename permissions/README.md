@@ -4,3 +4,6 @@
 3-new_owner script - changes owner of hello file to user betty
 4-empty script - adds hello file to current working directory
 5-execute script - adds execute permission to owner of file hello
+6-multiple permissions script - add execute permissions for user and group and read permissions to other users
+
+
