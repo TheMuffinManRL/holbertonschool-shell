@@ -3,7 +3,7 @@
 2-groups script - prints all the groups the current user is a part of
 3-new_owner script - changes owner of hello file to user betty
 4-empty script - adds hello file to current working directory
-5-execute script - adds execute permission to owner of file hello
-6-multiple permissions script - add execute permissions for user and group and read permissions to other users
+5-execute script - adds execution permission to owner of file hello
+6-multiple permissions script - adds execution permissions for user and group and read permissions to other users
 
-
+7-everybody script - adds execution permission to the owner, group and other users to the file hello
