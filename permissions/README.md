@@ -11,3 +11,6 @@
 9-John_Doe script - sets permissions for hello owner=read, write, execute | group owner=read, execute | other users=write, execute
 
 10-mirror_permissions script - sets the permissions of file hello to match file olleh
+11-directories_permissions script - adds execute permission to all subdirectories fo the current directory
+
+
