@@ -9,3 +9,5 @@
 7-everybody script - sets rwx to owner, r-x to group and x to other users in the file hello
 8-James_Bond script - adds execution permissions to the owner, group and other users to the file hello
 9-John_Doe script - sets permissions for hello owner=read, write, execute | group owner=read, execute | other users=write, execute
+
+10-mirror_permissions script - sets the permissions of file hello to match file olleh
