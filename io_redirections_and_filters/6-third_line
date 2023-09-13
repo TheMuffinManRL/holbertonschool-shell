@@ -1,2 +1,2 @@
 #!/bin/bash
-cat test_file | tr "." "\n"
+cat iacta | tr "." "\n" | head -3 | tail +3
