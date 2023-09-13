@@ -1,2 +1,2 @@
 #!/bin/bash
-find iacta | cat | tr "." "\n" | head -3 | tail +3
+cat iacta -R | tr "." "\n" | head -3 | tail +3
