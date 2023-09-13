@@ -1,2 +1,2 @@
 #!/bin/bash
-cat iacta_0 iacta_1 iacta_2 | tr "." "\n" | head -3 | tail +3
+cat iacta | tr "." "\n" | head -3 | tail +3
