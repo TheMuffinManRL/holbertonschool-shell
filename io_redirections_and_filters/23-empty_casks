@@ -1,2 +1,2 @@
 #!/bin/bash
-find -empty -print0 -type fd
+find . -type fd -empty
