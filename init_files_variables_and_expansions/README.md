@@ -7,4 +7,5 @@
 6-create_local_variable - creates new local variables
 7-create_global_variable - creates new global variable
 8-true_knowledge - prints the result of the addition of 128 and value of variable TRUEKNOWLEDGE
-
+9-divide and rule - prints the result of POWER divided by DIVIDE
+10-love_exponent_breath - displays the result of BREATH to the power of LOVE
