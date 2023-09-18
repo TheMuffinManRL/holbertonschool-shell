@@ -6,4 +6,5 @@
 5-local_variables - lists local variables
 6-create_local_variable - creates new local variables
 7-create_global_variable - creates new global variable
-8-true_knowledge
+8-true_knowledge - prints the result of the addition of 128 and value of variable TRUEKNOWLEDGE
+
